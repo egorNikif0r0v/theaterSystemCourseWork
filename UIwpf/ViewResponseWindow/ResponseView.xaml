@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="UIwpf.ViewResponseWindow.ResponseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UIwpf.ViewResponseWindow"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Ticket" FontSize="18" FontWeight="Bold"/>
+            <TextBlock Text="{Binding Id}"/>
+            <TextBlock Text="{Binding Action}"/>
+            <TextBlock Text="{Binding NameTheater}"/>
+            <TextBlock Text="{Binding NamePerformance}"/>
+            <TextBlock Text="{Binding PlaceNumber}"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

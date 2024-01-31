@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\UIwpf\\UIwpf.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj",
+        "projectName": "QueryService",
+        "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj",
+        "packagesPath": "C:\\Users\\nikif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikif\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj": {
+                "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj",
+        "projectName": "Theater",
+        "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj",
+        "packagesPath": "C:\\Users\\nikif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikif\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\UIwpf\\UIwpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\UIwpf\\UIwpf.csproj",
+        "projectName": "UIwpf",
+        "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\UIwpf\\UIwpf.csproj",
+        "packagesPath": "C:\\Users\\nikif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\UIwpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikif\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj": {
+                "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj"
+              },
+              "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj": {
+                "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\egor\Desktop\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\NikiforovEP\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache

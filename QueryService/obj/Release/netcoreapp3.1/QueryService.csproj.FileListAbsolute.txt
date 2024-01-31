@@ -1,0 +1,17 @@
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.exe
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\QueryService.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\QueryService.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\QueryService.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\bin\Release\netcoreapp3.1\Theater.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.csproj.AssemblyReference.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.AssemblyInfoInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.AssemblyInfo.cs
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.csproj.CoreCompileInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.csproj.CopyComplete
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\QueryService\obj\Release\netcoreapp3.1\QueryService.pdb

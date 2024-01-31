@@ -1,0 +1,181 @@
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.exe
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.deps.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\CommandLineParser.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfo.cs
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CopyComplete
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\egor\Desktop\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.genruntimeconfig.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.exe
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.deps.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.dev.json
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\CommandLineParser.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.AssemblyReference.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfoInputs.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfo.cs
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CoreCompileInputs.cache
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CopyComplete
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\egor\source\repos\theaterSystem (2)(1)\theaterSystem (2)\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.genruntimeconfig.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.runtimeconfig.dev.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.exe
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.exe
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.deps.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.runtimeconfig.dev.json
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\CommandLineParser.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\QueryService.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\bin\Debug\netcoreapp3.1\Theater.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.AssemblyReference.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfoInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.AssemblyInfo.cs
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CoreCompileInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.csproj.CopyComplete
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.dll
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\as\theaterSystem (1)\theaterSystem\obj\Debug\netcoreapp3.1\UIconsole.genruntimeconfig.cache

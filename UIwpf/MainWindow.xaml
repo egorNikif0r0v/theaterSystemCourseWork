@@ -1,0 +1,69 @@
+﻿<Window x:Class="UIwpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIwpf"
+        xmlns:views="clr-namespace:UIwpf.View"
+        xmlns:vm="clr-namespace:UIwpf.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"  Background="#FF171515" Foreground="#FFCECAC3" FontSize="14" FontWeight="Light" >
+    <Window.Resources>
+        
+        <Style TargetType="TextBox">
+            <Setter Property="Foreground" Value="#FFCECAC3"/>
+            <Setter Property="Background" Value="#FF0C0A0A"/>
+        </Style>
+        <Style TargetType="StackPanel">
+            <Setter Property="Margin" Value="10 5 10 5"/>
+        </Style>
+        <Style TargetType="ListBox">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                    <Setter Property="BorderBrush" Value="#FF0C0A0A"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Margin" Value="0 10 0 10"/>
+            <Setter Property="Background" Value="#FF0C0A0A"/>
+            <Setter Property="Foreground" Value="#FFCECAC3"/>
+        </Style>
+
+        <DataTemplate DataType="{x:Type vm:TheaterChainViewModel}">
+            <views:TheaterChainView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:TheaterViewModel}">
+            <views:TheaterView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:TheaterShortViewModel}">
+            <views:TheaterShortView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:PerforamnceViewModel}">
+            <views:PerforamnceView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:PerformanceShortViewModel}">
+            <views:PerformanceShortView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:AddPerformanceFormModel}">
+            <views:AddPerformanceFormView_new />
+         </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:QueryServiceViewModel}">
+            <views:QuerryServiceView />
+        </DataTemplate>
+        
+        <DataTemplate DataType="{x:Type vm:PlaceViewModel}">
+            <views:PlaceView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:PlaceShortViewModel}">
+            <views:PlaceShortView />
+        </DataTemplate>
+
+    </Window.Resources>
+    <ContentPresenter Content="{Binding Content}"/>
+</Window>

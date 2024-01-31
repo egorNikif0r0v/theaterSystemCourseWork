@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Theater/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Theater.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Theater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Theater/1.0.0": {
+      "type": "project",
+      "path": "../Theater/Theater.csproj",
+      "msbuildProject": "../Theater/Theater.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Theater >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikif\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj",
+      "projectName": "QueryService",
+      "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\QueryService.csproj",
+      "packagesPath": "C:\\Users\\nikif\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\QueryService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nikif\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj": {
+              "projectPath": "C:\\Users\\nikif\\OneDrive\\Рабочий стол\\as\\theaterSystem (1)\\Theater\\Theater.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

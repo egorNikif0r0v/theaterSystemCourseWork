@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QueryService/1.0.0": {
+        "dependencies": {
+          "Theater": "1.0.0"
+        },
+        "runtime": {
+          "QueryService.dll": {}
+        }
+      },
+      "Theater/1.0.0": {
+        "runtime": {
+          "Theater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueryService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Theater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

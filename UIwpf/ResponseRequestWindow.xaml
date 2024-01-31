@@ -1,0 +1,17 @@
+﻿<Window x:Class="UIwpf.ResponseRequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIwpf"
+        xmlns:views="clr-namespace:UIwpf.ViewResponseWindow"
+        xmlns:vm="clr-namespace:UIwpf.ViewModelResponseWindow"
+        mc:Ignorable="d"
+        Title="ResponseRequest" Height="326" Width="316">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:ResponseViewModel}">
+            <views:ResponseView />
+        </DataTemplate>
+    </Window.Resources>
+    <ContentPresenter Content="{Binding Content}"/>
+</Window>

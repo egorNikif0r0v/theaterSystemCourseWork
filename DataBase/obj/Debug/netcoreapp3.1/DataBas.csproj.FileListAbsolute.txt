@@ -1,0 +1,14 @@
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.exe
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.deps.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.runtimeconfig.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.runtimeconfig.dev.json
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.dll
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\bin\Debug\netcoreapp3.1\DataBas.pdb
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.csproj.AssemblyReference.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.AssemblyInfoInputs.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.AssemblyInfo.cs
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.csproj.CoreCompileInputs.cache
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.dll
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.pdb
+C:\Users\egor\Desktop\theaterSystem (1)\DataBase\obj\Debug\netcoreapp3.1\DataBas.genruntimeconfig.cache

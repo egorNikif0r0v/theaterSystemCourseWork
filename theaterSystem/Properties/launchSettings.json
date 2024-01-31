@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "theaterSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "-r Client/request.json"
+    }
+  }
+}

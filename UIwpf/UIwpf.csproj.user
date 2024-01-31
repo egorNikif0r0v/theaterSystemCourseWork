@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ResponseRequestWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewResponseWindow\ResponseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddPerformanceFormView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PerforamnceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PerformanceShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlaceShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlaceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\QuerryServiceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TheaterChainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TheaterShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TheaterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ResponseRequestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewResponseWindow\ResponseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddPerformanceFormView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PerforamnceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PerformanceShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlaceShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlaceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\QuerryServiceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TheaterChainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TheaterShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TheaterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
