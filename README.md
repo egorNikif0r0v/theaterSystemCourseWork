@@ -7,11 +7,11 @@
 - [ SystemTextJson ](https://www.typescriptlang.org/](https://www.nuget.org/packages/System.Text.Json))
 - [ MatthiWareCommandLineParser ](https://www.nuget.org/packages/MatthiWare.CommandLineParser)
 - [xunit](https://learn.microsoft.com/ru-ru/dotnet/core/testing/unit-testing-with-dotnet-test)
-- ...
+
 
 ## Подходы
 - [ multithreading ]
 - [ MVVM ]
 - [ QueryService ]
 - [Модульное тестирование]
-- ...
+
